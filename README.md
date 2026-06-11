@@ -75,10 +75,10 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 
 <div align="center">
 
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeyC171&theme=darcula&v=1' alt="Profile Summary" width="100%" />
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameyac11&theme=darcula&v=1' alt="Profile Summary" width="100%" />
 
 <br/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ameyc171&theme=dracula&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ameyac11&theme=dracula&hide_border=true" />
 
 </div>
 
