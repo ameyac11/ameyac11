@@ -70,16 +70,13 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 </div>
 
 ---
-
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameyac11&theme=darcula&v=1' alt="Profile Summary" width="100%" />
-
-<br/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ameyac11&theme=dracula&hide_border=true" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameyac11&theme=darcula&v=1" alt="Profile Summary" width="100%" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=ameyac11&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ameyac11&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
 ---
