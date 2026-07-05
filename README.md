@@ -34,25 +34,25 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://api.gitlytics.dev/api/logos/python.svg?style=logo_text) ![C++](https://api.gitlytics.dev/api/logos/cplusplus.svg?style=logo_text) ![SQL](https://api.gitlytics.dev/api/logos/sqlite.svg?style=logo_text) ![JavaScript](https://api.gitlytics.dev/api/logos/javascript.svg?style=logo_text)
 
 ### GenAI & LLMs
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge) ![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=for-the-badge) ![Vector Search](https://img.shields.io/badge/Vector_Search-4285F4?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Hugging Face](https://api.gitlytics.dev/api/logos/huggingface.svg?style=logo_text) ![LangChain](https://api.gitlytics.dev/api/logos/langchain.svg?style=logo_text) ![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge) ![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=for-the-badge) ![Vector Search](https://img.shields.io/badge/Vector_Search-4285F4?style=for-the-badge)
 
 ### ML & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![PyTorch](https://api.gitlytics.dev/api/logos/pytorch.svg?style=logo_text) ![Scikit-learn](https://api.gitlytics.dev/api/logos/scikitlearn.svg?style=logo_text) ![OpenCV](https://api.gitlytics.dev/api/logos/opencv.svg?style=logo_text) ![NumPy](https://api.gitlytics.dev/api/logos/numpy.svg?style=logo_text) ![Pandas](https://api.gitlytics.dev/api/logos/pandas.svg?style=logo_text) ![CUDA](https://api.gitlytics.dev/api/logos/nvidia.svg?style=logo_text) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ### Web & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![FastAPI](https://api.gitlytics.dev/api/logos/fastapi.svg?style=logo_text) ![React](https://api.gitlytics.dev/api/logos/react.svg?style=logo_text) ![Vite](https://api.gitlytics.dev/api/logos/vite.svg?style=logo_text) ![HTML](https://api.gitlytics.dev/api/logos/html5.svg?style=logo_text) ![CSS](https://api.gitlytics.dev/api/logos/css3.svg?style=logo_text) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![PostgreSQL](https://api.gitlytics.dev/api/logos/postgresql.svg?style=logo_text) ![MySQL](https://api.gitlytics.dev/api/logos/mysql.svg?style=logo_text) ![MongoDB](https://api.gitlytics.dev/api/logos/mongodb.svg?style=logo_text) ![Redis](https://api.gitlytics.dev/api/logos/redis.svg?style=logo_text) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://api.gitlytics.dev/api/logos/docker.svg?style=logo_text) ![Git](https://api.gitlytics.dev/api/logos/git.svg?style=logo_text) ![GitHub](https://api.gitlytics.dev/api/logos/github.svg?style=logo_text) ![DigitalOcean](https://api.gitlytics.dev/api/logos/digitalocean.svg?style=logo_text)
 
 ### Tools & Platforms
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F36E00?style=for-the-badge) ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge) ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -65,16 +65,16 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 
 <div align="center">
 
-<a href="https://ameyac11.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ameyac11" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ameyaccod171@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://ameyac11.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ameyac11" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ameyaccod171@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameyac11&theme=darcula&v=1" alt="Profile Summary" width="100%" />
+  <img src="https://api.gitlytics.dev/api/cards/profile-details/ameyac11.svg?theme=dracula" alt="Profile Summary" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=ameyac11&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://api.gitlytics.dev/api/cards/contribution-streak/ameyac11.svg?theme=dracula&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=ameyac11&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
