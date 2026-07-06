@@ -37,25 +37,25 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 ![Python](https://api.gitlytics.dev/api/logos/python.svg?style=logo_text) ![C++](https://api.gitlytics.dev/api/logos/cplusplus.svg?style=logo_text) ![SQL](https://api.gitlytics.dev/api/logos/sqlite.svg?style=logo_text) ![JavaScript](https://api.gitlytics.dev/api/logos/javascript.svg?style=logo_text)
 
 ### GenAI & LLMs
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Hugging Face](https://api.gitlytics.dev/api/logos/huggingface.svg?style=logo_text) ![LangChain](https://api.gitlytics.dev/api/logos/langchain.svg?style=logo_text) ![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge) ![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=for-the-badge) ![Vector Search](https://img.shields.io/badge/Vector_Search-4285F4?style=for-the-badge)
+![Azure OpenAI](https://api.gitlytics.dev/api/logos/azureopenai.svg?style=logo_text) ![Hugging Face](https://api.gitlytics.dev/api/logos/huggingface.svg?style=logo_text) ![LangChain](https://api.gitlytics.dev/api/logos/langchain.svg?style=logo_text) ![RAG](https://api.gitlytics.dev/api/logos/rag.svg) ![Embeddings](https://api.gitlytics.dev/api/logos/embeddings.svg) ![Vector Search](https://api.gitlytics.dev/api/logos/vectorsearch.svg)
 
 ### ML & AI
-![PyTorch](https://api.gitlytics.dev/api/logos/pytorch.svg?style=logo_text) ![Scikit-learn](https://api.gitlytics.dev/api/logos/scikitlearn.svg?style=logo_text) ![OpenCV](https://api.gitlytics.dev/api/logos/opencv.svg?style=logo_text) ![NumPy](https://api.gitlytics.dev/api/logos/numpy.svg?style=logo_text) ![Pandas](https://api.gitlytics.dev/api/logos/pandas.svg?style=logo_text) ![CUDA](https://api.gitlytics.dev/api/logos/nvidia.svg?style=logo_text) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![PyTorch](https://api.gitlytics.dev/api/logos/pytorch.svg?style=logo_text) ![Scikit-learn](https://api.gitlytics.dev/api/logos/scikitlearn.svg?style=logo_text) ![OpenCV](https://api.gitlytics.dev/api/logos/opencv.svg?style=logo_text) ![NumPy](https://api.gitlytics.dev/api/logos/numpy.svg?style=logo_text) ![Pandas](https://api.gitlytics.dev/api/logos/pandas.svg?style=logo_text) ![CUDA](https://api.gitlytics.dev/api/logos/nvidia.svg?style=logo_text) ![Gradio](https://api.gitlytics.dev/api/logos/gradio.svg?style=logo_text)
 
 ### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://api.gitlytics.dev/api/logos/matplotlib.svg?style=logo_text)
 
 ### Web & APIs
-![FastAPI](https://api.gitlytics.dev/api/logos/fastapi.svg?style=logo_text) ![React](https://api.gitlytics.dev/api/logos/react.svg?style=logo_text) ![Vite](https://api.gitlytics.dev/api/logos/vite.svg?style=logo_text) ![HTML](https://api.gitlytics.dev/api/logos/html5.svg?style=logo_text) ![CSS](https://api.gitlytics.dev/api/logos/css3.svg?style=logo_text) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![FastAPI](https://api.gitlytics.dev/api/logos/fastapi.svg?style=logo_text) ![React](https://api.gitlytics.dev/api/logos/react.svg?style=logo_text) ![Vite](https://api.gitlytics.dev/api/logos/vite.svg?style=logo_text) ![HTML](https://api.gitlytics.dev/api/logos/html5.svg?style=logo_text) ![CSS](https://api.gitlytics.dev/api/logos/css3.svg?style=logo_text)
 
 ### Databases
-![PostgreSQL](https://api.gitlytics.dev/api/logos/postgresql.svg?style=logo_text) ![MySQL](https://api.gitlytics.dev/api/logos/mysql.svg?style=logo_text) ![MongoDB](https://api.gitlytics.dev/api/logos/mongodb.svg?style=logo_text) ![Redis](https://api.gitlytics.dev/api/logos/redis.svg?style=logo_text) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![PostgreSQL](https://api.gitlytics.dev/api/logos/postgresql.svg?style=logo_text) ![MySQL](https://api.gitlytics.dev/api/logos/mysql.svg?style=logo_text) ![MongoDB](https://api.gitlytics.dev/api/logos/mongodb.svg?style=logo_text) ![Redis](https://api.gitlytics.dev/api/logos/redis.svg?style=logo_text) ![Qdrant](https://api.gitlytics.dev/api/logos/qdrant.svg?style=logo_text)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://api.gitlytics.dev/api/logos/docker.svg?style=logo_text) ![Git](https://api.gitlytics.dev/api/logos/git.svg?style=logo_text) ![GitHub](https://api.gitlytics.dev/api/logos/github.svg?style=logo_text) ![DigitalOcean](https://api.gitlytics.dev/api/logos/digitalocean.svg?style=logo_text)
+![AWS](https://api.gitlytics.dev/api/logos/aws.svg?style=logo_text) ![Docker](https://api.gitlytics.dev/api/logos/docker.svg?style=logo_text) ![Git](https://api.gitlytics.dev/api/logos/git.svg?style=logo_text) ![GitHub](https://api.gitlytics.dev/api/logos/github.svg?style=logo_text) ![DigitalOcean](https://api.gitlytics.dev/api/logos/digitalocean.svg?style=logo_text)
 
 ### Tools & Platforms
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F36E00?style=for-the-badge) ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge) ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F36E00?style=for-the-badge) ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge) ![N8N](https://api.gitlytics.dev/api/logos/n8n.svg?style=logo_text) ![Kaggle](https://api.gitlytics.dev/api/logos/kaggle.svg?style=logo_text)
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 
 <div align="center">
 
-<a href="https://ameyac11.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ameyac11" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ameyaccod171@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://ameyac11.in" target="_blank"><img src="https://api.gitlytics.dev/api/logos/portfolio.svg" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ameyac11" target="_blank"><img src="https://api.gitlytics.dev/api/logos/linkedin.svg?style=logo_text" alt="LinkedIn"/></a> <a href="mailto:ameyaccod171@gmail.com"><img src="https://api.gitlytics.dev/api/logos/gmail.svg?style=logo_text" alt="Email"/></a>
 
 </div>
 
