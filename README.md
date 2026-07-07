@@ -76,7 +76,6 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
   <br/><br/>
   <img src="https://api.gitlytics.dev/api/cards/contribution-streak/ameyac11.svg?theme=dracula&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ameyac11&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
 ---
