@@ -37,7 +37,7 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 ![Python](https://api.gitlytics.dev/api/logos/python.svg?style=logo_text) ![C++](https://api.gitlytics.dev/api/logos/cplusplus.svg?style=logo_text) ![SQL](https://api.gitlytics.dev/api/logos/sqlite.svg?style=logo_text) ![JavaScript](https://api.gitlytics.dev/api/logos/javascript.svg?style=logo_text)
 
 ### GenAI & LLMs
-![Azure OpenAI](https://api.gitlytics.dev/api/logos/azureopenai.svg?style=logo_text) ![Hugging Face](https://api.gitlytics.dev/api/logos/huggingface.svg?style=logo_text) ![LangChain](https://api.gitlytics.dev/api/logos/langchain.svg?style=logo_text) ![RAG](https://api.gitlytics.dev/api/logos/rag.svg) ![Embeddings](https://api.gitlytics.dev/api/logos/embeddings.svg) ![Vector Search](https://api.gitlytics.dev/api/logos/vectorsearch.svg)
+![Azure OpenAI](https://api.gitlytics.dev/api/logos/azureopenai.svg?style=logo_text) ![Hugging Face](https://api.gitlytics.dev/api/logos/huggingface.svg?style=logo_text) ![LangChain](https://api.gitlytics.dev/api/logos/langchain.svg?style=logo_text) ![RAG](https://api.gitlytics.dev/api/logos/rag.svg?style=logo_text) ![Embeddings](https://api.gitlytics.dev/api/logos/embeddings.svg?style=logo_text) ![Vector Search](https://api.gitlytics.dev/api/logos/vectorsearch.svg?style=logo_text) ![Semantic Search](https://api.gitlytics.dev/api/logos/semanticsearch.svg?style=logo_text) ![Neural Network](https://api.gitlytics.dev/api/logos/neuralnetwork.svg?style=logo_text) 
 
 ### ML & AI
 ![PyTorch](https://api.gitlytics.dev/api/logos/pytorch.svg?style=logo_text) ![Scikit-learn](https://api.gitlytics.dev/api/logos/scikitlearn.svg?style=logo_text) ![OpenCV](https://api.gitlytics.dev/api/logos/opencv.svg?style=logo_text) ![NumPy](https://api.gitlytics.dev/api/logos/numpy.svg?style=logo_text) ![Pandas](https://api.gitlytics.dev/api/logos/pandas.svg?style=logo_text) ![CUDA](https://api.gitlytics.dev/api/logos/nvidia.svg?style=logo_text) ![Gradio](https://api.gitlytics.dev/api/logos/gradio.svg?style=logo_text)
@@ -65,7 +65,7 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 
 <div align="center">
 
-<a href="https://ameyac11.in" target="_blank"><img src="https://api.gitlytics.dev/api/logos/portfolio.svg" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ameyac11" target="_blank"><img src="https://api.gitlytics.dev/api/logos/linkedin.svg?style=logo_text" alt="LinkedIn"/></a> <a href="mailto:ameyaccod171@gmail.com"><img src="https://api.gitlytics.dev/api/logos/gmail.svg?style=logo_text" alt="Email"/></a>
+<a href="https://ameyac11.in" target="_blank"><img src="https://api.gitlytics.dev/api/logos/portfolio.svg?style=logo_text" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ameyac11" target="_blank"><img src="https://api.gitlytics.dev/api/logos/linkedin.svg?style=logo_text" alt="LinkedIn"/></a> <a href="mailto:ameyaccod171@gmail.com"><img src="https://api.gitlytics.dev/api/logos/gmail.svg?style=logo_text" alt="Email"/></a>
 
 </div>
 
